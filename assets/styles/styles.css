@@ -38,7 +38,7 @@ nav{
     margin: 0;
     padding: 0;
     background-color: transparent;
-    /*display: none;*/
+    display: none;
 }
 .ham span{
     display: block;
